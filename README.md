@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+## Meu nome é Salleta
+
+Estou estudando na ![Alura](link)
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+## e quero muitos kitkats de Mariana
+
 <!--
 **00001113461214sp/00001113461214sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
